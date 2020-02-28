@@ -1,2 +1,2 @@
 # china-virus
-Nope lol
+These viruses please run in the virtual machine
